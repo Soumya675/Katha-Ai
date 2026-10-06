@@ -1,0 +1,6 @@
+{
+  "name": "Katha AI - India's Multilingual Voice-to-Action AI Assistant",
+  "description": "Speak naturally in English, Hindi, Odia, and Hinglish. Katha AI understands intent, maintains context, retrieves documents, and executes real actions with user permission.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
